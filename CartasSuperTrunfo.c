@@ -17,7 +17,7 @@ int main() {
   float PIB = 18.329;
   int Número de Pontos Turísticos= 10;
 
-printf("A carta ")
+printf("A cart ")
 
 
     return 0;
