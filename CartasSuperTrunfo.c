@@ -10,11 +10,11 @@ int main(){
   int Turisticos = 30;
 
   printf("Estado: %s\n", Estado);
-  printf("Codigo: %s\n",Codigo);
+  printf("Codigo da Carta: %s\n",Codigo);
   printf("Cidade: %s\n", Cidade);
   printf("Populacao: %d\n", Populacao);
   printf("Area: %.3f\n", Area);
   printf("PIB: %.3f\n", PIB);
-  printf("Turisticos: %d\n", Turisticos);
+  printf("Pontos Turisticos: %d\n", Turisticos);
 
 }
