@@ -18,8 +18,6 @@ int main(){
   float PIB2 = 18.329;
   int Turisticos2 = 10;
 
-scanf
-
   printf("Estado: %s\n", Estado);
   printf("Codigo da Carta: %s\n",Codigo);
   printf("Cidade: %s\n", Cidade);
